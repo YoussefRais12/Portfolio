@@ -1,6 +1,6 @@
 {
   "private": true,
-  "name": "Youssef RAIES",
+  "name": "youssef-raies",
   "homepage": "https://github.com/YoussefRais12",
   "version": "0.1.0",
   "scripts": {
@@ -10,6 +10,7 @@
     "eject": "react-scripts eject",
     "start": "react-scripts start",
     "test": "react-scripts test"
+   
   },
   "dependencies": {
     "@apollo/react-hooks": "^3.1.3",
@@ -68,4 +69,5 @@
     "*.json": "prettier-package-json --write",
     "*.{js,css,md}": "prettier --write"
   }
+  
 }

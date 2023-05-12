@@ -11,7 +11,7 @@ const seo = {
   description:
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   og: {
-    title: "Youssef RAIES Portfolio",
+    title: "Youssef-RAIES-Portfolio",
     type: "website",
     url: "http://ashutoshhathidara.com/",
   },
@@ -19,8 +19,8 @@ const seo = {
 
 //Home Page
 const greeting = {
-  title: "Youssef Raies",
-  logo_name: "Youssef Raies",
+  title: "Youssef-Raies",
+  logo_name: "Youssef-Raies",
   nickname: "Depy12",
   subTitle:
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
