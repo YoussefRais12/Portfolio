@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/YoussefRais12/static/css/main.623aa806.css",
-    "main.js": "/YoussefRais12/static/js/main.9f752009.js",
+    "main.js": "/YoussefRais12/static/js/main.8449927d.js",
     "static/media/portfolio.gif": "/YoussefRais12/static/media/portfolio.ed6c89f1485f23014ebd.gif",
     "static/media/fa-solid-900.svg": "/YoussefRais12/static/media/fa-solid-900.9fa614346b4e81decc62.svg",
     "static/media/fa-brands-400.svg": "/YoussefRais12/static/media/fa-brands-400.6fcab609e2f62d5c3104.svg",
@@ -68,10 +68,10 @@
     "static/media/talksCardBackAlt.svg": "/YoussefRais12/static/media/talksCardBackAlt.018d87225926eee9ccc3.svg",
     "static/media/talksCardBack.svg": "/YoussefRais12/static/media/talksCardBack.7dc8695e60efbc2baab8.svg",
     "main.623aa806.css.map": "/YoussefRais12/static/css/main.623aa806.css.map",
-    "main.9f752009.js.map": "/YoussefRais12/static/js/main.9f752009.js.map"
+    "main.8449927d.js.map": "/YoussefRais12/static/js/main.8449927d.js.map"
   },
   "entrypoints": [
     "static/css/main.623aa806.css",
-    "static/js/main.9f752009.js"
+    "static/js/main.8449927d.js"
   ]
 }
