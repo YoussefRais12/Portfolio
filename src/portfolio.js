@@ -25,7 +25,7 @@ const greeting = {
   subTitle:
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   resumeLink:
-    "https://drive.google.com/file/d/12Fed2MxNaK3T-niFcnRh5R7rIvWZ0Rhh/view?usp=sharing",
+    "https://drive.google.com/file/d/15qfwvPjiwH-9AiI9KwYmcVpXcI7Dk41e/view?usp=sharing",
   portfolio_repository: "https://github.com/YoussefRais12",
   githubProfile: "https://github.com/YoussefRais12",
 };
@@ -86,39 +86,37 @@ const socialMediaLinks = [
 
 const skills = {
   data: [
-    {
-      title: "Data Science",
-      fileName: "DataScienceImg",
-      skills: [
-        "⚡ Developing desktop apps to automate tasks such as files fetching and manipulation",
-        "⚡ Experience of working with PowerBI",
-        "⚡ Manipulation of data using Talend and Cloudera",
-      ],
-      softwareSkills: [
-       
-    
-      
-        {
-          skillName: "Python",
-          fontAwesomeClassname: "ion-logo-python",
-          style: {
-            backgroundColor: "transparent",
-            color: "#3776AB",
-          },
-        },
-        {
-          skillName: "PowerBI",
-          fontAwesomeClassname: "simple-icons:powerbi",
-        },
-      ],
-    },
+    // {
+    //   title: "Data Science",
+    //   fileName: "DataScienceImg",
+    //   skills: [
+    //     "⚡ Developing desktop apps to automate tasks such as files fetching and manipulation",
+    //     "⚡ Experience of working with PowerBI",
+    //     "⚡ Manipulation of data using Talend and Cloudera",
+    //   ],
+    //   softwareSkills: [
+
+    //     {
+    //       skillName: "Python",
+    //       fontAwesomeClassname: "ion-logo-python",
+    //       style: {
+    //         backgroundColor: "transparent",
+    //         color: "#3776AB",
+    //       },
+    //     },
+    //     {
+    //       skillName: "PowerBI",
+    //       fontAwesomeClassname: "simple-icons:powerbi",
+    //     },
+    //   ],
+    // },
     {
       title: "Full Stack Development",
       fileName: "FullStackImg",
       skills: [
-        "⚡ Building responsive website front-end and back-end",
-        "⚡ Developing QT application using C++",
-        "⚡ Creating .NET application using C#",
+        "⚡ Building responsive websites front-end and back-end",
+        "⚡ Creating clean and structured code",
+        "⚡ Establishing an easy to manipulate structure",
       ],
       softwareSkills: [
         {
@@ -135,7 +133,7 @@ const skills = {
             color: "#1572B6",
           },
         },
-       
+
         {
           skillName: "JavaScript",
           fontAwesomeClassname: "simple-icons:javascript",
@@ -181,55 +179,54 @@ const skills = {
         },
       ],
     },
-    {
-      title: "Cloud Infra-Architecture",
-      fileName: "CloudInfraImg",
-      skills: [
-        "⚡ Experience working on multiple cloud platforms",
-        "⚡ Hosting and maintaining websites on virtual machine instances along with integration of databases",
-  
-      ],
-      softwareSkills: [
-      
-     
-        {
-          skillName: "Azure",
-          fontAwesomeClassname: "simple-icons:microsoftazure",
-          style: {
-            color: "#0089D6",
-          },
-        },
-      
-        {
-          skillName: "PostgreSQL",
-          fontAwesomeClassname: "simple-icons:postgresql",
-          style: {
-            color: "#336791",
-          },
-        },
-        {
-          skillName: "MongoDB",
-          fontAwesomeClassname: "simple-icons:mongodb",
-          style: {
-            color: "#47A248",
-          },
-        },
-        {
-          skillName: "Docker",
-          fontAwesomeClassname: "simple-icons:docker",
-          style: {
-            color: "#1488C6",
-          },
-        },
-      
-      ],
-    },
+    // {
+    //   title: "Cloud Infra-Architecture",
+    //   fileName: "CloudInfraImg",
+    //   skills: [
+    //     "⚡ Experience working on multiple cloud platforms",
+    //     "⚡ Hosting and maintaining websites on virtual machine instances along with integration of databases",
+
+    //   ],
+    //   softwareSkills: [
+
+    //     {
+    //       skillName: "Azure",
+    //       fontAwesomeClassname: "simple-icons:microsoftazure",
+    //       style: {
+    //         color: "#0089D6",
+    //       },
+    //     },
+
+    //     {
+    //       skillName: "PostgreSQL",
+    //       fontAwesomeClassname: "simple-icons:postgresql",
+    //       style: {
+    //         color: "#336791",
+    //       },
+    //     },
+    //     {
+    //       skillName: "MongoDB",
+    //       fontAwesomeClassname: "simple-icons:mongodb",
+    //       style: {
+    //         color: "#47A248",
+    //       },
+    //     },
+    //     {
+    //       skillName: "Docker",
+    //       fontAwesomeClassname: "simple-icons:docker",
+    //       style: {
+    //         color: "#1488C6",
+    //       },
+    //     },
+
+    //   ],
+    // },
     {
       title: "UI/UX Design",
       fileName: "DesignImg",
       skills: [
         "⚡ Customizing logo designs and building logos from scratch",
-        "⚡ Creating the flow of application functionalities to optimize user experience",
+        "⚡ Editing videos",
       ],
       softwareSkills: [
         {
@@ -267,9 +264,7 @@ const skills = {
 
 // Education Page
 const competitiveSites = {
-  competitiveSites: [
-    
-  ],
+  competitiveSites: [],
 };
 
 const degrees = {
@@ -283,7 +278,6 @@ const degrees = {
       descriptions: [
         "⚡ I have studied basic software engineering subjects like DS, Algorithms, DBMS, OS, CA, AI etc.",
         "⚡ Apart from this, I have done courses on Deep Learning, Data Science, Cloud Computing and Full Stack Development.",
-        
       ],
       website_link: "https://esprit.tn",
     },
@@ -295,8 +289,8 @@ const degrees = {
       duration: "2022 - Present",
       descriptions: [
         "⚡ I have taken varity of courses related to Artificial Intelligence, Developement, Big data",
-        "⚡ Apart from this, I have also done multipule projects",
-        "⚡ During my time at university, i've done an intership in big data",
+        "⚡ I have done multipule projects in colaboration with other students",
+        "⚡ During my time at university, i've done two interships in Full-Stack Developement ",
       ],
       website_link: "https://www.cesi.fr",
     },
@@ -304,37 +298,34 @@ const degrees = {
 };
 
 const certifications = {
-  certifications: [
-    
-    
-    
-   
-    
-   
-   
-   
-   
-   
-  ],
+  certifications: [],
 };
 
 // Experience Page
 const experience = {
   title: "Experience",
   subtitle: "Work, Internship and Volunteership",
-  description:
-    "",
+  description: "",
   header_image_path: "experience.svg",
   sections: [
     {
       title: "Work",
-      experiences: [
-    
-      ],
+      experiences: [],
     },
     {
       title: "Internships",
       experiences: [
+        {
+          title: "Mobile Full-Stack developer",
+          company: "UxId.",
+          company_url: "https://uxid.digital",
+          logo_path: "logo-uxid.svg",
+          duration: "Sep 2023 - Feb 2024",
+          location: "Paris, FRANCE",
+          description:
+            "Coding 2 mobile applications for a construction company in KSA",
+          color: "#000000",
+        },
         {
           title: "Data integrator",
           company: "Habiteo.",
@@ -342,8 +333,7 @@ const experience = {
           logo_path: "Habiteo.png",
           duration: "Jan 2023 - Apr 2023",
           location: "Paris, FRANCE",
-          description:
-            "Coding a .NET application to automate tasks",
+          description: "Coding a .NET application to automate tasks",
           color: "#000000",
         },
         {
@@ -357,25 +347,20 @@ const experience = {
             "I have worked along other developers to maintain the functionality of the website's back-end",
           color: "#ee3c26",
         },
-      
       ],
     },
     {
       title: "Volunteerships",
       experiences: [
-       
-       
-       
-       
         {
           title: "Drumming instructor",
           company: "Paradiddle Music School",
-          company_url: "https://www.facebook.com/paradiddle.music.school?locale=fr_FR",
+          company_url:
+            "https://www.facebook.com/paradiddle.music.school?locale=fr_FR",
           logo_path: "para.jpg",
           duration: "Jan 2021 - Aug 2022",
           location: "Tunis, TUNISIA",
-          description:
-            "",
+          description: "",
           color: "#181717",
         },
       ],
@@ -391,18 +376,10 @@ const projectsHeader = {
   avatar_image_path: "projects_image.svg",
 };
 
-const publicationsHeader = {
-  
-};
+const publicationsHeader = {};
 
 const publications = {
-  data: [
-    
-      
-   
-  
- 
-  ],
+  data: [],
 };
 
 // Contact Page
@@ -413,14 +390,10 @@ const contactPageData = {
     description:
       "I am available on almost every social media. You can message me, I will reply within 24 hours. I am currently looking for a 4 month intership",
   },
-  blogSection: {
-    
-  },
+  blogSection: {},
   addressSection: {
     title: "Address",
-    subtitle:
-      "Paris, FRANCE",
-  
+    subtitle: "Paris, FRANCE",
   },
   phoneSection: {
     title: "",
